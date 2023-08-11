@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Alumni Android App and website for the same](https://github.com/Aaditya18SP/VazeAlumniWebsite)
 
-- 🌱 I’m currently learning **Flutter, Dart, Nodejs, ExpressJs, MongoDB,**
+- 🌱 I’m currently learning **Native Android Development, MongoDB**
 
 - 💬 Ask me about **Native Android Development using Java. Basics about programming languages such as Python, Java, C, C++,etc.**
 
