@@ -1,5 +1,5 @@
 <h1 align="center">Heyaa 👋, I'm Aaditya Pal</h1>
-<h3 align="center">I am passionate about Android development currently learning Native Android Development using Java. I love working on websites using technologies such as PHP,HTML,CSS,JS as well.</h3>
+<h3 align="center">I am passionate about Android development currently learning Native Android Development using Java. I also love working on websites using technologies such as PHP,HTML,CSS,JS as well.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaditya18sp" alt="aaditya18sp" /></a> </p>
 
